@@ -1,0 +1,7 @@
+Q.  Write a program to create Arithmetic calculator.
+
+
+
+ The program is created using the Eclipse IDE and run on the Command prompt as well
+      There was errors found after run the program successfully, when dividing the any number with zero to resolve this issue I used the Exception handler try and catch function.
+Now the program is run without errors.

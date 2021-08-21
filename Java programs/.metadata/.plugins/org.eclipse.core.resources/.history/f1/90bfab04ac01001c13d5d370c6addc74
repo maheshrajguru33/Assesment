@@ -1,0 +1,16 @@
+package TolearnCoding;
+
+import java.util.Scanner;
+
+public class While {
+	public static void main(String[] args) {
+		int n;
+		System.out.println("enter number to print massage count");
+		Scanner ref=new Scanner(System.in);
+		 n=ref.nextInt();
+		while(n=10){
+			System.out.println("Simplilearn");
+		}
+	}
+
+}
